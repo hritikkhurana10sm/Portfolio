@@ -313,6 +313,7 @@ img{
   border-radius: .5rem;
   overflow: hidden;
   color : lightslategray;
+  margin:15px;
 }
 .work__img img{
   transition: 1s;
